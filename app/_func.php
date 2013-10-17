@@ -1,7 +1,5 @@
 <?php
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-?>
+include 'users.php';
+include 'categories.php';
+include 'validations.php';
